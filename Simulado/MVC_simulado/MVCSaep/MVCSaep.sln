@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32002.261
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MVCSaep", "MVCSaep.csproj", "{63C1A579-3E6C-4901-B0E6-4C18346E171A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{63C1A579-3E6C-4901-B0E6-4C18346E171A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63C1A579-3E6C-4901-B0E6-4C18346E171A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63C1A579-3E6C-4901-B0E6-4C18346E171A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63C1A579-3E6C-4901-B0E6-4C18346E171A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {56B06C10-D93A-49EA-969E-BD4E4D51F265}
+	EndGlobalSection
+EndGlobal
